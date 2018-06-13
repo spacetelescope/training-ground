@@ -3,3 +3,5 @@ this is a modification made in my local repository
 Yet another edit to my trainee file
 Glenn making additional changes
 Susana has joined the hello world fans.
+i am now working on exercise 7.1
+and now i am at ex. 7.2
