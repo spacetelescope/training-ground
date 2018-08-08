@@ -1,1 +1,3 @@
 Hello world!
+New modification for Exercise 8.1
+This is another modification for Exercise 8.2.
