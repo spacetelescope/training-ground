@@ -5,5 +5,5 @@ try rebase
 hello again
 hi
 Rebasing is FUN!!!
-edit dis
+edit this
 ALL UR REBASE R BELONG 2 US. 
